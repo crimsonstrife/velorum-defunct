@@ -1,6 +1,5 @@
-Welcome to Project Velorum!
+Welcome to Project Velorum! [![build status](https://gitlab.com/helicalgames/projectvelorum/badges/master/build.svg)](https://gitlab.com/helicalgames/projectvelorum/commits/master)
 =============================
-[![build status](https://gitlab.com/helicalgames/projectvelorum/badges/master/build.svg)](https://gitlab.com/helicalgames/projectvelorum/commits/master)
 This is the project for the development of **DIVERSE**.  DIVERSE is being developed on Unreal Engine 4.
 
 The code and assets residing in this repository may only be used for DIVERSE submissions.
