@@ -1,8 +1,8 @@
 {
 	"Changelist" : 2946394,
-	"BuildId" : "e47992f0-40f5-4b3b-b182-7a4025a2d100",
+	"BuildId" : "",
 	"Modules" : 
 	{
-		"projectvelorum" : "UE4Editor-projectvelorum-8666.dll"
+		"projectvelorum" : "UE4Editor-projectvelorum.dll"
 	}
 }
