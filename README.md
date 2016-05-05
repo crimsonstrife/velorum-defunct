@@ -4,7 +4,7 @@ This is the project for the development of **DIVERSE**.  DIVERSE is being develo
 
 The code and assets residing in this repository may only be used for DIVERSE submissions.
 
-Check out the [DIVERSE wiki](http://barnhardt.servebbs.net:8090/display/DIVRSWIK/DIVERSE+Wiki) for documentation on the design and development process of the game.
+Check out the [DIVERSE wiki]() for documentation on the design and development process of the game.
 
 
 
@@ -26,7 +26,7 @@ The current DIVERSE project is based on Unreal Engine version 4.10. Visual Studi
 
 **Downloading the DIVERSE project:**
 
-- Download the project by clicking the **Download** button on the side bar of this (http://45.55.102.21:7990/projects/DVRS/repos/projectvelorum/browse) page.
+- Download the project by clicking the **Download** button on the side bar of this (https://gitlab.com/helicalgames/projectvelorum/repository/archive.zip?ref=master) page.
 - Unzip the files to a folder on your computer.  
 - Run the .uproject file in the directory you've created. This will create the necessary binary content not stored on GitHub.
 - Right click on the .uproject file and select "Create Visual Studio Project files", this will generate any missing project files.
@@ -36,10 +36,10 @@ Contributing
 
 One way to contribute changes is to send a [Pull Request].
 
-**To get started using BitBucket:**
+**To get started using GitLab:**
 
 - You'll want to create your own DIVERSE **fork** by clicking the __Fork button__ in the left sidebar of this page.
-- Next, [install a client](https://www.sourcetreeapp.com/) on your computer.
+- Next, [install a client](https://www.sourcetreeapp.com/) on your computer. (SourceTree is recommended)
 - Use the Sourcetree program to **Sync** the project's files to a folder on your machine.
 - You can now open up **ProjectVelorum.uproject** in the editor!
 - If you're a programmer, follow the platform specific steps below to set up the C++ project. 
