@@ -4,7 +4,7 @@ This is the project for the development of **DIVERSE**.  DIVERSE is being develo
 
 The code and assets residing in this repository may only be used for DIVERSE submissions.
 
-Check out the [DIVERSE wiki]() for documentation on the design and development process of the game.
+Check out the [DIVERSE wiki](https://tree.taiga.io/project/crimsonstrife-project-velorum/wiki) for documentation on the design and development process of the game.
 
 
 
