@@ -1,0 +1,9 @@
+{
+	"Changelist" : 2946394,
+	"BuildId" : "e47992f0-40f5-4b3b-b182-7a4025a2d100",
+	"Modules" : 
+	{
+		"BluLoader" : "UE4Editor-BluLoader-8666.dll",
+		"Blu" : "UE4Editor-Blu-8666.dll"
+	}
+}

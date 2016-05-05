@@ -1,17 +1,20 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "4.11",
-	"Category": "",
+	"Category": "Helical Games",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "projectvelorum",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SkookumScript",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/38694f554c2c4b9f84c585256d509481"
-		},
-		{
-			"Name": "Substance",
-			"Enabled": true
 		},
 		{
 			"Name": "AnalyticsBlueprintLibrary",
@@ -42,14 +45,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BlankPlugin",
-			"Enabled": true
-		},
-		{
-			"Name": "ScriptPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "SteamController",
 			"Enabled": true
 		},
@@ -76,6 +71,15 @@
 		{
 			"Name": "WebBrowserWidget",
 			"Enabled": true
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	],
 	"TargetPlatforms": [

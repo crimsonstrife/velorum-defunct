@@ -1,0 +1,9 @@
+{
+	"Changelist" : 2946394,
+	"BuildId" : "e47992f0-40f5-4b3b-b182-7a4025a2d100",
+	"Modules" : 
+	{
+		"FluidSurface" : "UE4Editor-FluidSurface-8666.dll",
+		"FluidSurfaceEngine" : "UE4Editor-FluidSurfaceEngine-8666.dll"
+	}
+}
