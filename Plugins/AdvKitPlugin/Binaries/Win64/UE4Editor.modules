@@ -1,0 +1,9 @@
+{
+	"Changelist" : 2934540,
+	"BuildId" : "",
+	"Modules" : 
+	{
+		"AdvKitRuntime" : "UE4Editor-AdvKitRuntime.dll",
+		"AdvKitEditor" : "UE4Editor-AdvKitEditor.dll"
+	}
+}

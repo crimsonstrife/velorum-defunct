@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 4110,
+	"VersionName": "4.11.p6",
+	"FriendlyName": "Adventure Kit",
+	"Description": "The Adventure Kit is a plugin for the Unreal Engine 4 that includes gameplay elements which can be used as a basis for a variety of games.",
+	"Category": "Adventure Kit",
+	"CreatedBy": "Pascal Krabbe",
+	"CreatedByURL": "http://www.freetimestudio.net",
+	"DocsURL": "https://github.com/FreetimeStudio/Adventure-Kit/wiki",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"Modules": [
+		{
+			"Name": "AdvKitRuntime",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "AdvKitEditor",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	],
+	"EnabledByDefault": false,
+	"Installed": false
+}
